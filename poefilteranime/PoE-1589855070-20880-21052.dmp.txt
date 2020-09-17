@@ -1,0 +1,10 @@
+User
+
+Area
+MapWorldsSulphurVents
+Seed
+1180597719
+Build
+release tags/3.10.1g
+OSBits
+64
